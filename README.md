@@ -31,3 +31,7 @@ Požadavky:
     - Velmi malý rozpočet na IT.
     - "Jak se registrovat a zaplatit?" byl po mnoho měsíců opomíjeným požadavkem.
     - Za 6 měsíců je nezbytně nutné, aby byla hotová registrace kurzů.
+
+## Rozhodnutí o architektuře
+
+[ADR o zvolené architektuře]()
