@@ -1,4 +1,4 @@
-[< Zpět](../ "Zpět na přehled seminární práce")
+[< Zpět](../../ "Zpět na přehled seminární práce")
 
 # Rozhodnutí o zvolené architektuře
 
@@ -15,7 +15,7 @@ Schválené
 Je třeba zvolit architekturu sytému pro registrace a platby kurzů pro širokou veřejnost i studenty.
 
 ## Decision
-Pro prodejní systému budeme využívat SOA (Service Oriented Architecture), architektura rozhraní bude REST.
+Pro vznikající systém registrací a plateb kurzů budeme využívat SOA (Service Oriented Architecture), architektura rozhraní bude REST.
 
 Bude exisistovat server, na kterém budou nasazeny jednotlivé moduly poskytující funkcionalitu jendotlivých služeb. Jedním z modulů je frontendová aplikace, komunikující 
 s monolitickými moduly na rozhraní REST pomocí protokolu HTTPS.
