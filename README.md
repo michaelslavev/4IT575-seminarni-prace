@@ -34,4 +34,5 @@ Požadavky:
 
 ## Rozhodnutí o architektuře
 
-[ADR o zvolené architektuře]()
+- Monolit [ADR o zvolené architektuře](./Monolit/ADR/ADR%20o%20zvolené%20architektuře.md)
+- SOA [ADR o zvolené architektuře](./SOA/ADR/ADR%20o%20zvolené%20architektuře.md)
