@@ -1,7 +1,7 @@
 # Zadání seminární práce z předmětu 4IT575 – Softwarové Architektury
-Repozitář s dokumenty, které se týkají semestrální práce v rámci předmětu 4IT575 - Softwarové architektury
+Repozitář s dokumenty, které se týkají seminární práce v rámci předmětu 4IT575 - Softwarové architektury
 
-Jméno: Daniel Davidík, Michael Slavev, Petr Müller, Jan Novák.
+Členi týmu: Daniel Davidík, Michael Slavev, Petr Müller, Jan Novák.
 
 
 ## Úkol:
@@ -15,8 +15,9 @@ Pokud ze zadání přímo nevyplyne nějaká skutečnost, kterou potřebujete zn
 ## Popis aplikace:
 Místní vyšší odborná škola nyní kromě obvyklých kurzů pro absolventy a studenty nabízí i jedinečné kurzy pro širokou veřejnost a potřebuje systém registrace a plateb.
 
-Uživatelé: studenti, zástupci školy, administrátor a účetnictví.
-Požadavky:
+**Uživatelé:** studenti, zástupci školy, administrátor a účetnictví.
+
+**Požadavky:**
 - Stávající centrální registr studentů/tříd je neintegrovatelný – poskytuje pouze přístup přes webový formulář protokolem https.
 - Přijímání plateb
 - Sledování registrací
