@@ -5,7 +5,7 @@ Tento pohled mapuje softwarové prvky na hardware pomocí diagramu nasazení.
 
 ## Primary presentation
 ### UML
-![Diagram nasazení](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/1f893ee628bccc2657125208a845d7b6f3ee9685/SOA/assets/diagram-nasazen%C3%AD-SOA.png "Diagram nasazení")
+![Diagram nasazení](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/a639e43ee656512c83023e5d2e2e88c45b5c2c3e/SOA/assets/Diagram%20nasazen%C3%AD-SOA.drawio.png "Diagram nasazení")
 
 ### Vysvětlivka diagramu
 - **Node** - Jedná se o hardwarový (device node) nebo softwarový prvek (execution environment node), který spouští jednu nebo více komponent nebo spustitelných souborů.
@@ -33,8 +33,16 @@ Tento pohled mapuje softwarové prvky na hardware pomocí diagramu nasazení.
     -  Fyzické zařízení, na kterém je nastaven Apache a jsou v něm uloženy veškeré potřebné části pro správný chod systému registrací a plateb.
 - **Apache**
     - Softwarový webový server s podporou pro všechny operační systémy.
-- **API aplikace**
-    - Předstacuje API přes které je dotazováno na jednotlivé služby systému registrací a plateb.
+- **Modul správy kurzů**
+    - Představuje službu přes kterou jsou spravovány kurzy.
+- **Modul plateb**
+    - Představuje službu která zajišťuje komunikaci se Serverem platební brány.
+- **Modul fakturací**
+    - Představuje službu, která generuje a zasílá faktury uživatelům.
+- **Modul správy uživatelů**
+    - Představuje službu, přes kterou lze spravovat uživatele.
+- **Modul administrace**
+    - Představuje službu určenou pro veškeré operace administrace.
 - **Databázový server**
     - Fyzické zařízení, na kterém je spuštěné MySQL a jsou zde uložena všechna data. Jako komunikační protokol s Webovým serverem využívá ODBC.
 - **MySQL**
