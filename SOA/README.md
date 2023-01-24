@@ -6,7 +6,7 @@
 - **pohledy**: komentář
     - [**Pohled na komponenty**](./pohledy/komponenty): komentář
     - [**Pohled na umístění**](./pohledy/umístění): komentář
-    - [**Pohled na moduly**](./pohledy/moduly): komentář
+    - [**Pohled na moduly**](./pohledy/moduly/README.md): komentář
 - **vyhodnocení**: komentář
 - **assets**: komentář
 
