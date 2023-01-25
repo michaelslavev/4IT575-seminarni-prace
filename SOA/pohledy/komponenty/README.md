@@ -82,4 +82,4 @@ TODO
 
 TODO
 
-[< Zpět](../../ "Zpět na přehled seminární práce")
+[< Zpět](../../ "Zpět do adresáře SOA")
