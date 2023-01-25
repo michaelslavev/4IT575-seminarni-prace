@@ -1,7 +1,7 @@
 # Zadání seminární práce z předmětu 4IT575 – Softwarové Architektury
 Repozitář s dokumenty, které se týkají seminární práce v rámci předmětu 4IT575 - Softwarové architektury
 
-Členi týmu: Daniel Davidík, Michael Slavev, Petr Müller, Jan Novák.
+Členové týmu: Daniel Davidík, Michael Slavev, Petr Müller, Jan Novák.
 
 
 ## Úkol:
