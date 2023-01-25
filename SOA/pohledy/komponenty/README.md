@@ -6,7 +6,7 @@ Tento pohled ukazuje komponenty systému pro registrace
 
 ### UML
 
-![Diagram komponent](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/05e3f681d94faaa2f1c831a03c596df49b67ee2b/SOA/assets/SOA_component-diagram.jpg "Diagram komponent")
+![Diagram komponent](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/767aacdbbbcda30124ed40b33c1b07630cef35cd/SOA/assets/SOA_component-diagram.jpg "Diagram komponent")
 
 ### Vysvětlivka diagramu
 
