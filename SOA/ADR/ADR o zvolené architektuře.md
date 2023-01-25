@@ -1,5 +1,3 @@
-[< Zpět](../../ "Zpět na přehled seminární práce")
-
 # Rozhodnutí o zvolené architektuře
 
 ## ID
@@ -33,3 +31,4 @@ Moduly aplikace:
 Po zvolení této architektury, bude snadnější implementace budoucích změn, dále umožní v případě potřeby i snadnou škálovalnost. Oproti klasické monolitické architerktuře 
 je tato varianta vývoje nákladnější a náročnější na realizaci.
 
+[< Zpět](../ "Zpět na přehled seminární práce")
