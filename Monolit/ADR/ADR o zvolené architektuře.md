@@ -1,5 +1,3 @@
-[< Zpět](../../ "Zpět na přehled seminární práce")
-
 # Rozhodnutí o zvolené architektuře
 
 ## ID
@@ -23,3 +21,5 @@ Bude exisistovat server, na kterém bude nasazena aplikace poskytující požado
 Zvolením této architektury je snadná a rychlá implementace požadované funkcionality, což umožňuje splnění požadvků na nízké náklady a rychlost dodání. Další výhodou je 
 jednotný codebase, umožňující menší náklady na vývoj.
 Nevýhodou tohoto řešení je nízká škálovatelnost a složitá implementace budou změn.
+
+[< Zpět](../ "Zpět do adresáře Monolit")
