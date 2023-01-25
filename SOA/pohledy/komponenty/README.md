@@ -20,11 +20,11 @@ Tento pohled ukazuje komponenty systému pro registrace
 
 - **Rozhraní** - Rozhraní poskytované nebo konzumované komponentou. V této tzv. lollipop notaci z levé strany konzumované, z pravé poskytované. V diagramu se objevují i odděleně, kde je půlkruh konzumované a kruh poskytované rohraní.
 
-<img src="https://github.com/michaelslavev/4IT575-seminarni-prace/blob/05e3f681d94faaa2f1c831a03c596df49b67ee2b/SOA/assets/prvky-diagram%C5%AF/Interface.jpg" alt="Označení subsystému" width="100"/>
+<img src="https://github.com/michaelslavev/4IT575-seminarni-prace/blob/05e3f681d94faaa2f1c831a03c596df49b67ee2b/SOA/assets/prvky-diagram%C5%AF/Interface.jpg" alt="Označení rozhraní" width="100"/>
 
 - **Asociace** - Asociace značí semantický vztah mezi komponentami.
 
-<img src="https://github.com/michaelslavev/4IT575-seminarni-prace/blob/05e3f681d94faaa2f1c831a03c596df49b67ee2b/SOA/assets/prvky-diagram%C5%AF/Line.jpg" alt="Označení závislosti" width="30"/>
+<img src="https://github.com/michaelslavev/4IT575-seminarni-prace/blob/05e3f681d94faaa2f1c831a03c596df49b67ee2b/SOA/assets/prvky-diagram%C5%AF/Line.jpg" alt="Označení asociace" width="30"/>
 
 - **Závislost** - Závislost značí vztah, kde je jedna komponenta pro svojí funkčnost závislá na té druhé. Šipka vede od závislé komponenty.
 
@@ -32,7 +32,7 @@ Tento pohled ukazuje komponenty systému pro registrace
 
 - **Port** - Port slouží k vystavení rozhraní z komponenty/subsystému.
 
-<img src="https://github.com/michaelslavev/4IT575-seminarni-prace/blob/05e3f681d94faaa2f1c831a03c596df49b67ee2b/SOA/assets/prvky-diagram%C5%AF/Port.jpg" alt="Označení závislosti" width="100"/>
+<img src="https://github.com/michaelslavev/4IT575-seminarni-prace/blob/05e3f681d94faaa2f1c831a03c596df49b67ee2b/SOA/assets/prvky-diagram%C5%AF/Port.jpg" alt="Označení portu" width="100"/>
 
 ## Element catalog
 
