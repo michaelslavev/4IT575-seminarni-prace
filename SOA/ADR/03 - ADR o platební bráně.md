@@ -1,4 +1,4 @@
-# Rozhodnutí o platební metodě
+# Rozhodnutí o platební bráně
 
 ## ID
 3
