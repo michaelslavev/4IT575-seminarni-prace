@@ -69,6 +69,6 @@ N/A
 ## Related Views
 [Pohled umístění](../umístění/README.md "Pohled umístění")
 
-[Pohled komponent](../komponent/README.md "Pohled komponent")
+[Pohled komponent](../komponenty/README.md "Pohled komponent")
 
 [< Zpět](../../ "Zpět do adresáře Monolit")
