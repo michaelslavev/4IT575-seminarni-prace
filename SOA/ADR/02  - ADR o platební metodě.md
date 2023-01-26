@@ -29,4 +29,4 @@ Nevýhodou toho řešení je závislost (vendor lock-in) na dodavateli řešení
 
 Výhodou jsou nízké náklady na zavedení a snadná integrace do systému. 
 
-[< Zpět](../ "Zpět do adresáře Monolit")
+[< Zpět](../ "Zpět do adresáře SOA")
