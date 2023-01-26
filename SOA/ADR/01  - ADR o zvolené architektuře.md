@@ -7,7 +7,7 @@
 21.01.2023
 
 ## Status
-Schválené
+Zamítnuto
 
 ## Context
 Je třeba zvolit architekturu sytému pro registrace a platby kurzů pro širokou veřejnost i studenty.
