@@ -45,4 +45,4 @@ Nevýhodou toho řešení je měsíční poplatek za provoz.
 
 Výhodou jsou nízké nízké procentuelní poplatky za platby kartou a pevný režim sazeb. 
 
-[< Zpět](../ "Zpět do adresáře Monolit")
+[< Zpět](../ "Zpět do adresáře SOA")
