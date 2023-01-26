@@ -31,4 +31,4 @@ potíže se jazyk naučit, pokud to bude potřeba.
 
 Vývoj modulů bude snadnější díky skill base vývojového týmu, který je orientovaný na tento framework.
 
-[< Zpět](../ "Zpět do adresáře Monolit")
+[< Zpět](../ "Zpět do adresáře SOA")
