@@ -87,3 +87,8 @@ N/A
 ---
 
 ## Related Views
+- [Pohled komponent](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/1154633d53a96196a142567525d6f923f729477d/SOA/pohledy/komponenty/README.md "Přejít na pohled komponent")
+
+- [Pohled umístění](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/d511a8fb61fc0d313ba2fbcd35bc1260a2b88871/SOA/pohledy/um%C3%ADst%C4%9Bn%C3%AD/README.md "Přejít na pohled umístění")
+
+[< Zpět](../../ "Zpět do adresáře SOA")
