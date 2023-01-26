@@ -68,15 +68,15 @@ Tento pohled ukazuje komponenty systému pro registrace
 
 ## Context diagram
 
-TODO
+N/A
 
 ## Variability guide
 
-TODO
+N/A
 
 ## Rationale
 
-TODO
+N/A
 
 ## Related Views
 
