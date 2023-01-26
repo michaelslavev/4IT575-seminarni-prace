@@ -2,14 +2,17 @@
 
 ## Dokumentace / Struktura adresáře
 
-- **ADR**: komentář
-    - [**ADR**](./pohledy/komponenty)
-    - [**ADR**](./pohledy/komponenty)
-- **pohledy**: komentář
+- **ADR**:
+    - [**01 - ADR o zvolené architektuře**](./ADR/01%20%20-%20ADR%20o%20zvolen%C3%A9%20architektu%C5%99e.md)
+    - [**02 - ADR o platební metodě**](./ADR/02%20%20-%20ADR%20o%20platebn%C3%AD%20metod%C4%9B.md)
+    - [**03 - ADR o platební bráně.**](./ADR/03%20-%20ADR%20o%20platebn%C3%AD%20br%C3%A1n%C4%9B.md)
+    - [**04 - ADR o frameworku backendu.md**](./ADR/04%20-%20ADR%20o%20frameworku%20backendu.md)
+    - [**05 - ADR o frameworku frontendu.md**](./ADR/05%20-%20ADR%20o%20frameworku%20frontendu.md)
+- **pohledy**:
     - [**Pohled na komponenty**](./pohledy/komponenty)
     - [**Pohled na umístění**](./pohledy/umístění)
-    - [**Pohled na moduly**](./pohledy/moduly/README.md)
-- **vyhodnocení**: tadu bude link
+    - [**Pohled na moduly**](./pohledy/moduly)
+- [**vyhodnocení**](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/84dd3a15746d35593c41020b64610e0e4ab01141/vyhodnocen%C3%AD.md)
 - **assets**: V tomto adresáři jsou soubory dokumentace projektu
 
 
