@@ -80,8 +80,8 @@ N/A
 
 ## Related Views
 
-[Pohled umístění](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/472ebcf6d4a60ec6e1ba73553a6ad6f0d120589a/SOA/pohledy/um%C3%ADst%C4%9Bn%C3%AD/README.md "Pohled umístění")
+[Pohled umístění](../umístění/README.md "Pohled umístění")
 
-[Pohled modulů](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/472ebcf6d4a60ec6e1ba73553a6ad6f0d120589a/SOA/pohledy/moduly/README.md "Pohled modulů")
+[Pohled modulů](../moduly/README.md "Pohled modulů")
 
 [< Zpět](../../ "Zpět do adresáře SOA")
