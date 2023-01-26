@@ -91,6 +91,6 @@ N/A
 ## Related Views
 [Pohled umístění](../umístění/README.md "Pohled umístění")
 
-[Pohled modulů](../komponent/README.md "Pohled komponent")
+[Pohled modulů](../komponent/README.md "Pohled modulů")
 
 [< Zpět](../../ "Zpět do adresáře SOA")
