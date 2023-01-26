@@ -1,0 +1,1 @@
+# Hodnocení obou architektur
