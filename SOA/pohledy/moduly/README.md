@@ -79,10 +79,12 @@ N/A
 
 ---
 ## Variability guide
+N/A
 
 ---
 
 ## Rationale
+N/A
 
 ---
 
