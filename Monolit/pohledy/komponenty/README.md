@@ -70,8 +70,8 @@ N/A
 
 ## Related Views
 
-[Pohled umístění](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/16b2973a2ff624b45a073f4ae0d345a142021110/Monolit/pohledy/um%C3%ADst%C4%9Bn%C3%AD/README.md "Pohled umístění")
+[Pohled umístění](../umístění/README.md "Pohled umístění")
 
-[Pohled modulů](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/16b2973a2ff624b45a073f4ae0d345a142021110/Monolit/pohledy/moduly/README.md "Pohled modulů")
+[Pohled modulů](../moduly/README.md "Pohled modulů")
 
 [< Zpět](../../ "Zpět do adresáře Monolit")
