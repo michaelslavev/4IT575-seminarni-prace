@@ -39,7 +39,7 @@ Pro hodnocení charakteristik zvolených architektur bude využitá stupnice (zo
 </div>
 
 ## Závěrečné zhodnocení
-Z celkového pohledu vypadá, že obě řešení jsou stejně vhodné, není tomu tak, vzhledem k požadavkům na aplikaci jsou preferované požadavky na dostupnost, kontinuitu, škálovatelnost, recoverability, které všechny vítězí u architektury SOA, ale vzhledem k omezením projektu je třeba brát v potaz i náklady na realizaci a čas potřebný
+Z celkového pohledu vypadá, že obě řešení jsou stejně vhodná, není tomu tak, vzhledem k požadavkům na aplikaci jsou preferované požadavky na dostupnost, kontinuitu, škálovatelnost, recoverability, které všechny vítězí u architektury SOA, ale vzhledem k omezením projektu je třeba brát v potaz i náklady na realizaci a čas potřebný
 k dokončení.
 
 Vzhledem k vymezením vůči zadání jsme zvolili jako vhodnou architekturu řešení architekturu **monolit**.
