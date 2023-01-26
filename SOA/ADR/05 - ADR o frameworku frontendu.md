@@ -25,4 +25,4 @@ Pro vznikající frontend systému registrací a plateb kurzů bude využit fram
 Použití frameworku React.js s jazykem TypeScript může mít několik výhod, například lepší kvalitu kódu, méně chyb při běhu a lepší podporu nástrojů. 
 Společné používání obou technologií však může mít i některé negativní důsledky jako je např. větší složitost a křivka učení pro nové vývojáře.
 
-[< Zpět](../ "Zpět do adresáře Monolit")
+[< Zpět](../ "Zpět do adresáře SOA")
