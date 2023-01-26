@@ -35,5 +35,7 @@ Místní vyšší odborná škola nyní kromě obvyklých kurzů pro absolventy 
 
 ## Rozhodnutí o architektuře
 
-- Monolit [ADR o zvolené architektuře](./Monolit/ADR/ADR%20o%20zvolené%20architektuře.md)
-- SOA [ADR o zvolené architektuře](./SOA/ADR/ADR%20o%20zvolené%20architektuře.md)
+- Monolit [ADR o zvolené architektuře](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/e33f98656b54a1713476a8afdddcdf8f25bde353/Monolit/ADR/01%20%20-%20%20ADR%20o%20zvolen%C3%A9%20architektu%C5%99e.md)
+- SOA [ADR o zvolené architektuře](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/e33f98656b54a1713476a8afdddcdf8f25bde353/SOA/ADR/01%20%20-%20ADR%20o%20zvolen%C3%A9%20architektu%C5%99e.md)
+
+## [Závěrečné vyhodnocení architektur](./vyhodnocení.md)
