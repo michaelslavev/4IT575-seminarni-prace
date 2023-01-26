@@ -3,12 +3,14 @@
 ## Dokumentace / Struktura adresáře
 
 - **ADR**: komentář
+    - [**ADR**](./pohledy/komponenty)
+    - [**ADR**](./pohledy/komponenty)
 - **pohledy**: komentář
-    - [**Pohled na komponenty**](./pohledy/komponenty): komentář
-    - [**Pohled na umístění**](./pohledy/umístění): komentář
-    - [**Pohled na moduly**](./pohledy/moduly/README.md): komentář
-- **vyhodnocení**: komentář
-- **assets**: komentář
+    - [**Pohled na komponenty**](./pohledy/komponenty)
+    - [**Pohled na umístění**](./pohledy/umístění)
+    - [**Pohled na moduly**](./pohledy/moduly/README.md)
+- **vyhodnocení**: tadu bude link
+- **assets**: V tomto adresáři jsou soubory dokumentace projektu
 
 
 
