@@ -68,3 +68,6 @@ N/A
 ---
 
 ## Related Views
+- [Pohled modulů](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/1154633d53a96196a142567525d6f923f729477d/SOA/pohledy/moduly/README.md "Přejít na pohled modulů")
+
+- [Pohled komponent](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/1154633d53a96196a142567525d6f923f729477d/SOA/pohledy/komponenty/README.md "Přejít na pohled komponent")
