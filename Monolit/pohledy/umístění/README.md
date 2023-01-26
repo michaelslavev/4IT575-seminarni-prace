@@ -61,8 +61,8 @@ N/A
 ---
 
 ## Related Views
-- [Pohled modulů](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/19bf0bf2c46f8c45aad208bd9a626ee965222b09/Monolit/pohledy/moduly/README.md "Přejít na pohled modulů")
+- [Pohled modulů](../moduly/README.md "Přejít na pohled modulů")
 
-- [Pohled komponent](https://github.com/michaelslavev/4IT575-seminarni-prace/blob/19bf0bf2c46f8c45aad208bd9a626ee965222b09/Monolit/pohledy/komponenty/README.md "Přejít na pohled komponent")
+- [Pohled komponent](../komponenty/README.md "Přejít na pohled komponent")
 
 [< Zpět](../../ "Zpět do adresáře Monolit")
